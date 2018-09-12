@@ -1,0 +1,14 @@
+{
+  "name": "typescipt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lesson2.js",
+  "dependencies": {
+    "lite-server": "2.2.2"
+  },
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "",
+  "license": "ISC"
+}
