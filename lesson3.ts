@@ -1,6 +1,6 @@
-function hello(name:string) {
+function hello11(name:string) {
     console.log(`Hello ${name}`);
     
 }
 
-hello('Andy');
+hello11('Andy');
